@@ -1,0 +1,28 @@
+{
+  "name": "trivia",
+  "version": "1.0.0",
+  "description": "Bot disocrd that implements quizz game",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GFIow/Trivia.git"
+  },
+  "keywords": [
+    "trivia",
+    "node.js",
+    "discord.js"
+  ],
+  "author": "Florian Guigue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GFIow/Trivia/issues"
+  },
+  "dependencies": {
+    "discord.js": "~11.1.0",
+    "moment": "~2.18.1"
+  },
+  "homepage": "https://github.com/GFIow/Trivia#readme"
+}
