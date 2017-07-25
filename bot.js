@@ -20,7 +20,7 @@ client.on('ready', function () {
     })
 	// This event will welcome every people who arrive on the server
     .on('guildMemberAdd', function (member) {
-        member.guild.defaultChannel.send(${member} + " vient d'arriver sur le serveur");
+        member.guild.defaultChannel.send(member.displayName + " vient d'arriver sur le serveur");
     })
 	// This event will execute commands when specifics messages are called
     .on('message', async function (message) {
@@ -34,8 +34,14 @@ client.on('ready', function () {
 		
 		if(command === "say") {
 			const msg = args.join(" ");
-			message.delete().catch(O_o=>{});
+			message.delete().catch(console.error);
 			message.channel.send(msg);
+		}
+
+		if (command === "test") {
+			if (args.join("") === null) return;
+
+			const qFile = require('./questions/' + args.join("") + '.json');
 		}
     })
     .login(config.token);
