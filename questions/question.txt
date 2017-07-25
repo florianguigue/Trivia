@@ -1,0 +1,84 @@
+/*
+
+In 'Pac-Man' for the Atari 2600, how many points were each pellet worth?
+1
+
+What do you need to collect 100 of to get an extra life in Super Mario Bros.?
+coins
+
+Who is the main character from Final Fantasy VII?
+Cloud strife
+
+How is binary digit more commonly known?
+bit
+
+Pokemon first appeared on which Nintendo console?
+gameboy
+
+What is the name of the Star Fox Team's cocky wingman?
+Falco Lombardi
+
+Who is the first gym leader you fight in 'Pokemon' for the Game Boy?
+Brock
+
+In the Game of Life, what are the playing pieces that you move around the board?
+cars
+
+Which was the first console "Duke Nukem' game?
+Duke Nukem 64!
+
+Who is the owner of Lon Lon Ranch in the "Legend of Zelda" games?
+Talon
+
+Who is the main character in Kingdom Hearts?
+Sora
+
+In the Xbox game "Halo", what is the name of the main character?
+master chief
+
+Who must Kratos kill in "God of War"?
+Ares
+
+What's the first video game to become a television show
+pacman
+
+What series is the theme "green hill zone" from?
+Sonic the hedgehog
+
+What was Mario's original name?
+Jumpman
+
+What was the name of the four-armed sub-boss in the original "Mortal Kombat"?
+goro
+
+In the "Banjo-Kazooie" games what type of animal in Banjo?
+Honey Bear
+
+What PopCap game required you to swap adjacent gems to form chains of three or more?
+Bejeweled
+
+Who is the developer at Nintendo responsible for classics like Donkey Kong, Super Mario Bros., and The Legend of Zelda?
+Shigeru Miyamoto
+
+What color is the big truck pictured on the cover of "Excite Truck"?
+red
+
+Who is the main antagonist of "Battlefield 4"?
+Admiral Chang
+
+The Nintendo 64 was titled under what name during production?
+Project Reality
+
+In what country can the town of Silent Hill be found?
+United States
+
+Which was the second title in the "Professor Layton" series on the Nintendo DS?
+The Diabolical Box
+
+IN the official Monopoly rules, what happens when you land on "Free Parking"?
+nothing
+
+Which type of game is "Mortal Kombat"?
+fighting
+*/
+
