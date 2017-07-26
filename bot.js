@@ -113,14 +113,14 @@ client.on('ready', function () {
             }
 			else if (args.join("") === "help") {
                 message.channel.send("Comment jouer :\n\n" +
-                    "'!trivia [theme]' pour lancer une partie avec le theme choisi,\n" +
+                    "'!trivia [theme]' pour lancer une partie avec le theme choisi (Ex: !trivia overwatch),\n" +
                     "'!trivia list' pour voir la liste des thèmes disponibles\n" +
                     "'!trivia pass' pour passer à la question suivante,\n" +
                     "'!trivia stop' pour arrêter la partie en cours")
             }
             else if( args.join("") === "list") {
                 message.channel.send("Liste des thèmes : \n\n" +
-                    "videogames")
+                    "videogames, finalfantasy, overwatch")
             }
 			else {
                 if (jeu === false) {
