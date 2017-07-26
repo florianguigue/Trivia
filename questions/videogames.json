@@ -1,5 +1,4 @@
 {
-  "theme": "videogames",
   "questions": [
     {
       "question": "Dans Sonic, quel espèce d'animal est Knuckles ?",
@@ -84,6 +83,91 @@
     {
       "question": "Qui est le célèbre directeur musical de la franchise Final Fantasy ?",
       "reponse": "Nabuo Uematsu"
+    },
+    {
+      "question": "Dans Pac-Man sur Atari 2600, combien de points valent chaque pastille ?",
+      "reponse": "1"
+    },
+    {
+    "question": "Pour gagner une vie supplémentaire dans Super Mario Bros, vous devez collecter 100 unités de quel objet ?",
+    "reponse": "pièce"
+    },
+    {
+      "question": "Comment se nomme le personnage principal de Final Fantasy VII ?",
+      "reponse": "Cloud Strife"
+    },
+    {
+      "question": "Pokémon est apparu en premier sur quelle console ?",
+      "reponse": "GameBoy"
+    },
+    {
+      "question": "Comment se nomme l'oiseau dans l'équipe Star Fox ?",
+      "reponse": "Falco Lombardi"
+    },
+    {
+      "question": "Comment se nomme le premier champion d'arène des jeux pokémon ?",
+      "reponse": "Pierre"
+    },
+    {
+      "question": "Comment se nomme le propriétaire du Ranch Lon Lon dans Legend of Zelda ?",
+      "reponse": "Talon"
+    },
+    {
+      "question": "Comment se nomme le personnage principal de Kingdom Hearts ?",
+      "reponse": "Sora"
+    },
+    {
+      "question": "Comment se nomme le personnage principal du jeu Halo ?",
+      "reponse": "Master Chief"
+    },
+    {
+      "question": "Qui Kratos doit-il tuer dans le jeu God of War ?",
+      "reponse": "Ares"
+    },
+    {
+      "question": "Quel est le premier jeu à être devenu un émission de télévision ?",
+      "reponse": "Pac-Man"
+    },
+    {
+      "question": "De quel jeu vient le thème Green Hill Zone ?",
+      "reponse": "Sonic the Hedgehog"
+    },
+    {
+      "question": "Quel est le nom original de Mario ?",
+      "reponse": "Jumpman"
+    },
+    {
+      "question": "Quel est le premier boss a quatre bras de la série Mortal Kombat ?",
+      "reponse": "Goro"
+    },
+    {
+      "question": "Dans Banjo et Kazooie, quel type d'animal est Banjo ?",
+      "reponse": "Ours"
+    },
+    {
+      "question": "Chez Nintendo, qui est le développeur responsable de la création de Donkey Kong, Super Mario Bros et The Legend of Zelda ?",
+      "reponse": "Shigeru Miyamoto"
+    },
+    {
+      "question": "Qui est l'antagoniste principal dans Battlefield 4 ?",
+      "reponse": "Amiral Chang"
+    },
+    {
+      "question": "Durant sa production, quel était le nom donné à la Nintendo 64 ?",
+      "reponse": "Project Reality"
+    },
+    {
+      "question": "Dans quel pays peut-on trouver la ville de Silent Hill ?",
+      "reponse": "Etats-Unis"
+    },
+    {
+      "question": "Quel est le titre du second jeu Professeur Layton sur Nintendo DS ?",
+      "reponse": "Professeur Layton et la boite de pandore"
+    },
+    {
+      "question": "Quel type de jeu est Mortal Kombat ?",
+      "reponse": "Combat"
     }
+
   ]
 }
