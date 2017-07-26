@@ -1,0 +1,236 @@
+{
+  "questions": [
+    {
+      "question": "(FF I) Comment se nomme le personnage principal ?",
+      "reponse": "Chevalier de la lumière"
+    },
+    {
+      "question": "(FF II) Comment se nomme le personnage principal ?",
+      "reponse": "Firion"
+    },
+    {
+      "question": "(FF III) Comment se nomme le personnage principal ?",
+      "reponse": "Luneth"
+    },
+    {
+      "question": "(FF IV) Comment se nomme le personnage principal ?",
+      "reponse": "Cecil"
+    },
+    {
+      "question": "(FF V) Comment se nomme le personnage principal ?",
+      "reponse": "Bartz"
+    },
+    {
+      "question": "(FF VI) Comment se nomme le personnage principal ?",
+      "reponse": "Terra"
+    },
+    {
+      "question": "(FF VII) Comment se nomme le personnage principal (Prénom et Nom) ?",
+      "reponse": "Cloud Strife"
+    },
+    {
+      "question": "(FF VIII) Comment se nomme le personnage principal ?",
+      "reponse": "Squall"
+    },
+    {
+      "question": "(FF IX) Comment se nomme le personnage principal ?",
+      "reponse": "Djidane"
+    },
+    {
+      "question": "(FF X) Comment se nomme le personnage principal ?",
+      "reponse": "Tidus"
+    },
+    {
+      "question": "(FF XII) Comment se nomme le personnage principal ?",
+      "reponse": "Vaan"
+    },
+    {
+      "question": "(FF XIII) Comment se nomme le personnage principal ?",
+      "reponse": "Lightning"
+    },
+    {
+      "question": "(FF VII) Qui tue Aerith dans Final Fantasy VII",
+      "reponse": "Sephiroth"
+    },
+    {
+      "question": "(FF TYPE-0) Quel est l'arme de choix de Jack?",
+      "reponse": "Katana"
+    },
+    {
+      "question": "(FFIV) Cecil et Rosa sont mariés. Vrai ou Faux ?",
+      "reponse": "Vrai"
+    },
+    {
+      "question": "(FF IV) Quel est le nom du frère de Cecil ?",
+      "reponse": "Golbez"
+    },
+    {
+      "question": "(FFIX) Dans le premier combat du jeu, a quoi ressemble le masque du l'adversaire que vous affronté ?",
+      "reponse": "Dragon bleu"
+    },
+    {
+      "question": "Les noms de Biggs et Wedge sont inspirés de personnage du même de quel série de films célèbre ?",
+      "reponse": "Star Wars"
+    },
+    {
+      "question": "(FFXV) Combien d'étages le donjon des profondeurs du bois de Steyliff possède t-il ?",
+      "reponse": "100"
+    },
+    {
+      "question": "(FFVI) Quel est le premier esper que vous rencontré dans le jeu ?",
+      "reponse": "Valigarmanda"
+    },
+    {
+      "question": "(FFX) Comment se nomme le frère de Rikku ?",
+      "reponse": "Brother"
+    },
+    {
+      "question": "(FFIV) Par qui Golbez a t-il été controlé ?",
+      "reponse": "Zemus"
+    },
+    {
+      "question": "(FF BRAVE EXVIUS) Comment se nomme le presonnage principal 'rouge' ?"
+      "reponse": "Rain"
+    },
+    {
+      "question": "(FFIV) Qui est l'élémentaire de la terre ?",
+      "reponse": "Scarmiglione"
+    },
+    {
+      "question": "(FFVII) Il existe une femelle de la même espèce que RED XIII. Vrai ou Faux ?",
+      "reponse": "Vrai"
+    },
+    {
+      "question": "(FFIX) Lors de votre première rencontre avec Cid, il n'est pas en forme humaine. En forme de quoi est-il ?",
+      "reponse": "Oglop"
+    },
+    {
+      "question": "(FFIV) Quel est l'item utilisé pour réveiller Yang dans la caverne des Sylphides?",
+      "reponse": "Poêle"
+    },
+    {
+      "question": "(FFIV) Quel monstre avale Rydia?",
+      "reponse": "Leviathan"
+    },
+    {
+      "question": "(FFV) Quel est le nom du petit-fils de Cid ?",
+      "reponse": "Mid"
+    },
+    {
+      "question": "(FFVI) Avec quoi nourrissez vous Cid pour l'aider à récupérer dans le monde en ruines ?",
+      "reponse": "Poisson"
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    },
+    {
+      "question": "",
+      "reponse": ""
+    }
+  ]
+}
