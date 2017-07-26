@@ -13,8 +13,7 @@ const client = new Discord.Client();
 // Loading up the configuration file
 const config = require('./config.json');
 
-var startTime = 60000;
-var skipTime = 45000;
+var skipTime = 15000;
 
 var questionTimeout;
 var skipTimeout;
@@ -55,20 +54,15 @@ client.on('ready', function () {
 
     function startGame(message) {
         nbTotalQuestions = qFile.questions.length;
-        questionTimeout = setTimeout(askQuestion, startTime, message);
+        askQuestion(message);
     }
     
     function askQuestion(message) {
         questionNum = Math.round(Math.random() * nbTotalQuestions - 1);
         qPasser.push(questionNum);
         qNumber++;
-        message.channel.send("Question n°" + qNumber + " :\n" + findQuestion(qFile), function (error) {
-            if (error) {
-                throw error;
-            } else {
-                skipTimeout = setTimeout(skipQuestion, skipTime, message);
-            }
-        });
+        message.channel.send("Question n°" + qNumber + " :\n" + findQuestion(qFile));
+        skipTimeout = setTimeout(skipQuestion, skipTime, message);
     }
 
     function endTrivia(message) {
@@ -79,9 +73,8 @@ client.on('ready', function () {
     }
 
     function skipQuestion(message) {
-        message.channel.send("Trop lent ! La réponse était : " + findReponse(qFile), function (error) {
-            questionTimeout = setTimeout(askQuestion, startTime, message)
-        });
+        message.channel.send("Trop lent ! La réponse était : " + findReponse(qFile));
+        askQuestion(message);
     }
 
     // This event will execute commands when specifics messages are called
@@ -134,6 +127,7 @@ client.on('ready', function () {
         if (jeu === true) {
             if (message.content.toLowerCase() === findReponse(qFile)) {
                 message.channel.send("Bien joué !\n");
+                clearTimeout(skipTimeout);
                 askQuestion(message);
             }
         }
